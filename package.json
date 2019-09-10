@@ -1,0 +1,22 @@
+{
+  "name": "collector-js-api-impl-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "collector-api": "1.0.0"
+  },
+  "ern": {
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "CollectorApiImplJs",
+      "apiNames": [
+        "Collector"
+      ]
+    },
+    "moduleType": "ern-js-api-impl"
+  },
+  "keywords": [
+    "ern-js-api-impl"
+  ]
+}
